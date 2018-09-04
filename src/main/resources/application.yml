@@ -1,0 +1,5 @@
+test:
+  host:
+    naver: https://www.naver.com
+    daum: https://www.daum.net
+    google: https://www.google.com
